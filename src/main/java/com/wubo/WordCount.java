@@ -26,7 +26,7 @@ public class WordCount {
         if (args.length != 2) {
             System.out.println("Usage: java TextStatistics [-c|-w] input_file_name");
             return;
-        }
+        }//second
 
         String parameter = args[0];
         String inputFile = args[1];
